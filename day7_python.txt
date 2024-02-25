@@ -1,0 +1,11 @@
+Q) What is time complexity?
+A) The time complexity is the computational complexity that describes the amount of computer time it takes to run an algorithm.
+
+
+Q)What are the different types of time complexities?
+A) There are 5 types of time complexities,
+	* Constant Time Complexity - O(1)
+	* Logarithmic Time Complexity - O(log n)
+	* Linear Time Complexity - O(n)
+	* O(n log n) Time Complexity
+	* Quadratic Time Complexity - O(n2) 
